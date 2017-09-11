@@ -1,3 +1,8 @@
+.idea
 env
+nohup.out
 data/*
+!data/classes_explained.png
 !data/get_data.sh
+notebooks/*
+!notebooks/*.ipynb
