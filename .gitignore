@@ -5,4 +5,5 @@ data/*
 !data/classes_explained.png
 !data/get_data.sh
 notebooks/*
+!notebooks/*.py
 !notebooks/*.ipynb
